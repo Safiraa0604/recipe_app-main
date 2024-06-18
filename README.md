@@ -62,11 +62,11 @@ Pengguna yang dapat memakai sistem ini adalah User.
         <img src="assets/beranda.png"><br>
       </td>
       <td width="33%">
-        <h5>Form Detail Resep 1</h5>
+        <h5>Detail Resep 1</h5>
         <img src="assets/detail1.png">
       </td>
       <td width="33%">
-        <h5>Form Detail Resep 2</h5>
+        <h5>Detail Resep 2</h5>
         <img src="assets/detail2.png">
       </td>
     </tr>
