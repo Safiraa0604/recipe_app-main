@@ -1,7 +1,7 @@
 # Recipe App
 <img src="assets/logo_ubsi.png" width="200px"><br>
 
-panduan langkah demi langkah dengan serta daftar bahan-bahan yang dibutuhkan. Menggunakan framework Flutter dengan bahasa pemrograman Dart, aplikasi ini menjanjikan pengalaman yang responsif dan mudah digunakan bagi para pengguna.
+Aplikasi Recipe App menyediakan beragam fitur interaktif, termasuk kategori masakan, panduan langkah demi langkah dengan serta daftar bahan-bahan yang dibutuhkan. Menggunakan framework Flutter dengan bahasa pemrograman Dart, aplikasi ini menjanjikan pengalaman yang responsif dan mudah digunakan bagi para pengguna.
 
 ## Nama Kelompok
 <table border="1">
