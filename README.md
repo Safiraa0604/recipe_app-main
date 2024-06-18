@@ -31,7 +31,7 @@ Aplikasi Recipe App menyediakan beragam fitur interaktif, termasuk kategori masa
     <tr>
       <td>4</td>
       <td>19221527</td>
-      <td>Safira Chairunissa</td>
+      <td>Safira Chairunnisa</td>
     </tr>
     <tr>
     <td>5</td>
