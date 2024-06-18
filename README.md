@@ -58,15 +58,15 @@ Pengguna yang dapat memakai sistem ini adalah User.
   <tbody>
     <tr>
       <td width="33%">
-        <h5>Login Form</h5>
+        <h5>Beranda</h5>
         <img src="assets/beranda.png"><br>
       </td>
       <td width="33%">
-        <h5>Form Tambah Pegawai</h5>
+        <h5>Form Detail Resep 1</h5>
         <img src="assets/detail1.png">
       </td>
       <td width="33%">
-        <h5>Form Detail Pegawai</h5>
+        <h5>Form Detail Resep 2</h5>
         <img src="assets/detail2.png">
       </td>
     </tr>
