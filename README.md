@@ -1,5 +1,5 @@
 # Recipe App
-<img src="assets/img/logo_ubsi.png" width="200px"><br>
+<img src="assets/logo_ubsi.png" width="200px"><br>
 
 panduan langkah demi langkah dengan serta daftar bahan-bahan yang dibutuhkan. Menggunakan framework Flutter dengan bahasa pemrograman Dart, aplikasi ini menjanjikan pengalaman yang responsif dan mudah digunakan bagi para pengguna.
 
